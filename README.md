@@ -59,12 +59,9 @@ A terminal will open at the bottom of the VS Code window.
 You should see the project folder location in the terminal.
 
 For example:
-
 PS C:\Users\YourName\Desktop\Smart_Banking_System>
 6. Run the Main Program
-
 The main file of the project is main.py.
-
 Run it using:
 
 ```bash
@@ -157,9 +154,6 @@ Allows you to calculate simple interest.
 When you are finished using the banking system, select the Exit option from the menu.
 
 The program will close and return you to the terminal.
-
-Troubleshooting
-python is not recognized
 
 If you get an error like:
 
