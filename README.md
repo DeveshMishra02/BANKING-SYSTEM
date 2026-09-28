@@ -1,15 +1,6 @@
 How to Run the Project
 
 Follow the steps below to run the Smart Banking System on your computer.
-
-1. Install Python
-
-This project is written completely in Python, so Python must be installed on your computer.
-
-You can check whether Python is already installed by opening Command Prompt, PowerShell, or the VS Code Terminal and running:
-
-python --version
-
 If Python is installed correctly, you will see something similar to:
 
 Python 3
